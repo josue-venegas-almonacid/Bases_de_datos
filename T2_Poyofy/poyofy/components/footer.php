@@ -11,5 +11,5 @@
 © Poyofy 2020 - Todos los poyos reservados 
 </footer>
 
-<!--Font Awesome 5 Script-->
-<script src="https://kit.fontawesome.com/0c5e6dc058.js" crossorigin="anonymous"></script>
+<!-- Font Awesome CSS -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" crossorigin="anonymous" />

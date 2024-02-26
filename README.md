@@ -4,7 +4,7 @@ Bases de datos
 
 # Descripción
 
-Repositorio utilizado para alojar los proyectos desarrollados durante el curso "Bases de datos" el primer semestre del año 2020 en la Universidad Técnica Federico Santa María, para la carrera de Ingeniería Civil en Informática
+Repositorio utilizado para alojar los proyectos desarrollados durante el curso "Bases de Datos" el primer semestre del año 2020 en la Universidad Técnica Federico Santa María, para la carrera de Ingeniería Civil en Informática
 
 # T1
 

@@ -12,4 +12,4 @@ Sistema de ingreso de pokémones a centro de salud Sansanito mediante Oracle Dat
 
 # T2
 
-Aplicación web que imita el comportamiento de Spotify donde los usuarios pueden seguir a otros usuarios, guardar canciones como favoritas y crear playlists, y los artistas pueden publicar canciones y crear álbums
+Aplicación web realizada en PHP, HTML y CSS que imita el comportamiento de Spotify donde los usuarios pueden seguir a otros usuarios, guardar canciones como favoritas y crear playlists, y los artistas pueden publicar canciones y crear álbums

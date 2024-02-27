@@ -4,7 +4,7 @@ Poyofy
 
 # Descripción
 
-Aplicación web que imita el comportamiento de Spotify donde los usuarios pueden seguir a otros usuarios, guardar canciones como favoritas y crear playlists, y los artistas pueden publicar canciones y crear álbums
+Aplicación web realizada en PHP, HTML y CSS que imita el comportamiento de Spotify donde los usuarios pueden seguir a otros usuarios, guardar canciones como favoritas y crear playlists, y los artistas pueden publicar canciones y crear álbums
 
 # Herramientas necesarias
 
